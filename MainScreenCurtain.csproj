@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon>logo\MainScreenCurtain.ico</ApplicationIcon>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>MainScreenCurtain</AssemblyName>
+    <RootNamespace>MainScreenCurtain</RootNamespace>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Version>1.0.0</Version>
+    <Product>MainScreenCurtain</Product>
+    <Description>Black out the primary display on Windows while keeping other monitors usable.</Description>
+    <Authors>WXJB-D</Authors>
+    <Copyright>Copyright (c) 2026 WXJB-D</Copyright>
+    <RepositoryUrl>https://github.com/WXJB-D/MainScreenCurtain</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+</Project>
